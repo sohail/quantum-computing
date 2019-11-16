@@ -6,17 +6,22 @@ __In xy plane__(the superposition of states)...
 **|Ψ⟩ = &prop;|0&rang; + &Beta;|1&rang;**
 
 where...
+
 > **&prop;, &Beta; &isin; &complexes;** 
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
 __In polar plane__(the superposition of states)...
 
 |&Psi;&rang; = **r&#x2080;exp(&ImaginaryI;&Phi;&#x2080;)|0&rang; + r&#x2081;exp(&ImaginaryI;&Phi;&#x2081;)|1&rang;**
+
 where...
+
 > **r** is the magnitude, the length of hypotenuse
+
 > **&Phi;** is the angle between between lines representing hypotenuse and adjacent
 
 |&Psi;&rang; = **exp(&ImaginaryI;&Phi;&#x2080;)[r&#x2080;|0&rang; + r&#x2081;exp(&ImaginaryI;(&Phi;&#x2081; - &Phi;&#x2080;))|1&rang;**]
+
 |&Psi;&rang; = **r&#x2080;|0&rang; + r&#x2081;exp(&ImaginaryI;&Phi;)|1&rang;**
 
 > dropped **exp(&ImaginaryI;&Phi;&#x2080;)** out of consideration because during measurements it'll not make any difference
@@ -28,7 +33,9 @@ __In Blochsphere space__(the superposition of states)...
 where...
 
  > **0 &lt; &theta; &lt;= &pi;**
+
  > **0 &lt; &Phi; &lt;= 2&pi;**
+
 
 ### So how does we arrive from the 2D **xy plane** to the **polar plane** and then into the 3D **Blochsphere plane**...
 

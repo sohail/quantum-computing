@@ -1,2 +1,4 @@
 # quantum-computing
-Trying  to get my head around the field of Quantum Computing, this repository contains my study notes
+Trying to get my head around the field of Quantum Computing, this repository contains my study notes
+
+* [State of Qubit in Blochsphere](https://github.com/sohail/quantum-computing/blob/master/blochsphere.md) 
