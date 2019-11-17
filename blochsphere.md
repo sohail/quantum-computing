@@ -47,6 +47,6 @@ Further readings and references
 ```
 * [Spin-1/2 particle](https://en.wikipedia.org/wiki/Spin-%C2%BD)
 * [Planck's constant](https://en.wikipedia.org/wiki/Planck_constant)
-* [a great lecture video on Blocksphere](https://www.youtube.com/watch?v=vUVkS1XZVCc)
+* [A great lecture video on Blocksphere](https://www.youtube.com/watch?v=vUVkS1XZVCc)
 * [Great site for Blochsphere simulation](https://www.st-andrews.ac.uk/physics/quvis/simulations_html5/sims/blochsphere/blochsphere.html)
 
