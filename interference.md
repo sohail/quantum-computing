@@ -1,6 +1,6 @@
 ### Quantum Interference(simulator)
 
-(Last updated:- Tuesday, 19th of November, 2019 AT 2:44 AM, while listening to "It's so Hard" by, Anouk)
+(Last updated:- Saturday, 23rd of November, 2019 AT 12:09 AM, while listening to "I say a little pray for you" cover by, Josh Stone)
 
 A fundamental idea in quantum computing is to control the probability a system of qubits collapses into particular measurement states
 
