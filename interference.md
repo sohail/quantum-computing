@@ -1,8 +1,14 @@
 ### Quantum Interference(simulator)
 
-(Last updated:- Saturday, 23rd of November, 2019 AT 12:09 AM, while listening to "I say a little pray for you" cover by, Josh Stone)
+(Last updated:- Sunday, 24th of November, 2019 AT 09:09 PM, while listening to "Practical arrangement" by, String and Joe Lawry)
 
 A fundamental idea in quantum computing is to control the probability a system of qubits collapses into particular measurement states
+
+### Max Born interpretation of wave function
+
+A single qubit is a system of two states(namely the **up-spin** and **down-spin**). A qubit, **while it is spinning** is suppose to be in a state which is known as a **superposition of states** and, while it is spinning, each spinning state has a __probability amplitude__.  We often hear the phrase **"** measurement collapses the wave function **"**. The __probability amplitude__ of each state is the likelihood of superposition of states being collapsed into that one specific state. 
+
+The term **exp(&ImaginaryI;&Phi;)** of wave function **&Psi;** of superposition of states allows the possibility of complex phases to exist as well and for that reason the probability amplitudes is a complex number **(a + ib)**. We also know that probability of whole of the sample space is 1. In the case of qubit the sample space is superposition of states. To arrive at total probability of 1 we take the complex square(**multiply by complex conjugate**) of each of the amplitudes and that is .... (a + &ImaginaryI;b)&sup2; = (a + &ImaginaryI;b)(a - &ImaginaryI;b) = (a&sup2; + b&sup2;)  and that is how we arrive at the total probability of **1**  and satisfy the one postulate by Max Born(born rule).
 
 ```cpp
 
