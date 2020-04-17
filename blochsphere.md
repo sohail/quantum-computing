@@ -8,7 +8,8 @@ __In xy plane__(the superposition of states)...
 
 where...
 
-> **&prop;, &Beta; &isin; &complexes;** 
+> **&prop;, &Beta; &isin; &complexes;**
+ 
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
 ```
