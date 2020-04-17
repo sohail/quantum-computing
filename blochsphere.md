@@ -13,7 +13,7 @@ where...
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
 ```
-A qubit is a quantum particle and it is a probability wave as well. We are interested in a position of qubit. Position of a qubit is a real world property and it is either 0 or 1. 
+A qubit is a quantum particle and like any other quantum particle, it is a probability wave as well. We are interested in a position of qubit. Position of a qubit is a real world property and it is either 0 or 1. 
 Through interference we assign probabilities in the form of amplitudes to the different states of a qubit in a superposition of states.
 
 These amplitudes live in a complex space and, we are interested in the likelihood of either 0 or 1. Put differently, we are interested in the probability distribution of superposition of states and for that, we ensure that absolute square of each of the amplitudes when added together give 1.      
