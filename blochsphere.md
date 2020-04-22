@@ -9,6 +9,13 @@ __In xy plane__(the superposition of states)...
 where...
 
 > **&prop;, &Beta; &isin; &complexes;**
+
+> **|0&rang;** &nbsp;,&nbsp;  **|1&rang;** 
+
+```
+Are two basis states in **ket-notation** or **Dirac-notation** of two dimentional quantum system and they are shorthand for two column vectors (1) and (0) respectively.
+	(0)     (1)
+```
  
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
