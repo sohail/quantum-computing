@@ -13,10 +13,10 @@ where...
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
 ```
-A qubit is a quantum particle and like any other quantum particle, it is a probability wave as well. We are interested in a position of qubit. Position of a qubit is a real world property and it is either 0 or 1. 
-Through interference we assign probabilities in the form of amplitudes to the different states of a qubit in a superposition of states.
+A qubit is a quantum particle and a basis for quantum computing. Like any other quantum particle, it is a probability wave as well. We are interested in a position or state of a qubit. Position or state of a qubit is a real world property and it can be either 0 or 1(in terms of a classical bit). The qubit it self is a quantum particle and it can manifest into both 0 and 1 states at the same time. This is known as the superposition of states.  
+Through interference we assign/control probabilities/amplitudes to/of the basis states of a qubit and put the qubit in desired state/position.
 
-These amplitudes live in a complex space and, we are interested in the likelihood of either 0 or 1. Put differently, we are interested in the probability distribution of superposition of states and for that, we ensure that absolute square of each of the amplitudes when added together give 1.      
+These probabilities live in a complex-space and, we are interested in the likelihood of either 0 or 1(in the case of one qubit and in terms of classical bit). Put differently, we are interested in the probability distribution of superposition of states and for that, we ensure that absolute square of each of the amplitudes when added together results in 1(Born rule).      
 ```
 
 __In polar plane__(the superposition of states)...
