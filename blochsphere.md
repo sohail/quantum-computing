@@ -13,8 +13,8 @@ where...
 > **|0&rang;** &nbsp;,&nbsp;  **|1&rang;** 
 
 ```
-Are two basis states in ket-notation(Dirac's bra-ket notation) of two dimentional quantum system and respectively, they are shorthand for two column vectors (1) and (0) 
-	                                                                                                                                                     (0)     (1)
+Are two basis states in ket-notation(Dirac's bra-ket notation) of two dimentional quantum system and respectively, they are shorthand for two one column vectors (1) and (0) 
+	                                                                                                                                                         (0)     (1)
 ```
  
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
