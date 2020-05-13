@@ -17,7 +17,8 @@ Are two basis states in ket-notation(Dirac's bra-ket notation) of two dimentiona
 	                                                                                                                                                          (0)     (1)
 ```
 
-> P(0) = |**&prop;**|&sup2; and P(1) = |**&Beta;**|&sup2; 
+> **P**(**0**) = |**&prop;**|&sup2; and **P**(**1**) = |**&Beta;**|&sup2;
+
 > |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
 
 ```
