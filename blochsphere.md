@@ -19,7 +19,7 @@ Are two basis states in ket-notation(Dirac's bra-ket notation) of two dimentiona
 
 > **P**(**0**) = |**&prop;**|&sup2; and **P**(**1**) = |**&Beta;**|&sup2;
 
-> |**&prop;**|&sup2; + |**&Beta;**|&sup2; = **1**
+> **P**(**0**) + **P**(**1**) = **1**
 
 ```
 A qubit is a quantum particle and a basis for quantum computing. Like any other quantum particle, it is a probability wave as well. We are interested in a position or state of a qubit. Position or state of a qubit is a real world property and it can be either 0 or 1(in terms of a classical bit). The qubit it self is a quantum particle and it can manifest into both 0 and 1 states at the same time. This is known as the superposition of states.  
