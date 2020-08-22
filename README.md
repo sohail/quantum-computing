@@ -1,6 +1,6 @@
 # Quantum Computing
 
-|Trying to get my head around the field of Quantum Computing, this repository contains my study notes
+|Trying to get my head around the field of Quantum Computing, this repository contains my study notes|
 
 **Quantum Physics** is the study of **Quantum Theory**. **Quantum Mechanics** is the **Mathematical Language** used to describe **Quantum Theory**.
 
