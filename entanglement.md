@@ -1,1 +1,1 @@
-The **joint state** of a **system of Qubits** is described using an operation known as **Tensor Product** ![Operator](assets/tensor-product-symbol.png)
+The **joint state** of a **system of Qubits** is described using an operation known as **Tensor Product** ![Operator](assets/tensor-product-symbol.png). Say, we've three individual states... ![State of Qubit is 2D complex vector](assets/three-single-qubit-states-2d-complex-vector.png)
