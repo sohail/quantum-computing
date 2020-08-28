@@ -1,1 +1,1 @@
-The **joint state** of a **system of Qubits** is described using an operation known as **Tensor Product** [Operator](assets/tensor-product-symbol.png)
+The **joint state** of a **system of Qubits** is described using an operation known as **Tensor Product** ![Operator](assets/tensor-product-symbol.png)
