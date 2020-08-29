@@ -6,3 +6,6 @@ A measurment of this system would collapse the joint state into any of the **2^3
 ### The Entanglement
 The **Tensor Product** of **n** **Qubit**s results in a system whose quantum state can be factored as a product of states of its individual constituents...
 ![joint state can be factored into its individual contituents](assets/joint-state-can-be-refactored-as-states-of-individual-qubits.png)
+
+![entangled states](assets/entangled-states.png)
+
