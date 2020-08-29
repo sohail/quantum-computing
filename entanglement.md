@@ -2,3 +2,7 @@ The **joint state** of a **system of Qubits** is described using an operation kn
 ![2^nD complex vector](assets/2%5E3-dimensional-complex-vector.png) 
 Expresses the fact that **joint state** of **n Quibits** is the **2^n**D complex vector(**the dimension of vector space is determined solely from the number of basis states**). 
 A measurment of this system would collapse the joint state into any of the **2^3** possible **bit-strings** ![bit-strings](assets/2%5E3-possible-bit-strings.png)
+
+### The Entanglement
+The **Tensor Product** of **n** **Qubit**s results in a system whose quantum state can be factored as a product of states of its individual constituents...
+![joint state can be factored into its individual contituents](assets/joint-state-can-be-refactored-as-states-of-individual-qubits.png)
