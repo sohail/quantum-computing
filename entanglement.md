@@ -7,5 +7,7 @@ A measurment of this system would collapse the joint state into any of the **2^3
 The **Tensor Product** of **n** **Qubit**s results in a system whose quantum state can be factored as a product of states of its individual constituents...
 ![joint state can be factored into its individual contituents](assets/joint-state-can-be-refactored-as-states-of-individual-qubits.png)
 
+It is possible for a system of qubits to be in a state that can not be written as the **Tensor Product** of indivdual **Qubit** states. An example of such state is....
 ![entangled states](assets/entangled-states.png)
 
+States of a system which can not be expressed as a **Tensor Product** of states of its individual subsystems as called **entangled states**. An entangled system is defined to be one whose quantum state can not be factored as a product of states of its local constituents; that is to say, they are not individual particles but are inseparable whole. In entanglement, one constituent can not be fully described without condidering the others.
