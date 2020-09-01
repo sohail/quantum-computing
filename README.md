@@ -13,5 +13,6 @@ The **Qubit** is the quantum mechanical generalization of a bit used in classica
 In **ket notation** the state of **Qubit** can be described as such... **|Ψ⟩ = &prop;|0&rang; + &Beta;|1&rang;**. Which means that a **Qubit** in state **PSI**(**Ψ**) is in a **super position of states**(when one thing is really two or more things at once). **&prop;|0&rang;** and **&Beta;|1&rang;** represent the two basis states such that, when **Qubit** gets measured the **Qubit collapses into one of the two basis states**.
 
 * [State of Qubit in Blochsphere](https://github.com/sohail/quantum-computing/blob/master/blochsphere.md)
+* [Entanglement](https://github.com/sohail/quantum-computing/blob/master/entanglement.md)
 * [Interference](https://github.com/sohail/quantum-computing/blob/master/interference.md)
 * [Planck's Constant](https://github.com/sohail/quantum-computing/blob/master/plancksconstant.md)  
