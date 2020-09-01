@@ -19,7 +19,9 @@ All matter has *wavelength*(De Broglie wavelength) from tiny particle such as **
 __De Broglie wavelength__
 
 &lambda; = **h**/**P** 
-where **h** = 6.626176x10^-34 joule-seconds	
+
+where **h** = 6.626176x10^-34 joule-seconds
+
 **P** is momentum and momentum is mass(**m**) x velocity(**v**)
 
       
