@@ -6,7 +6,7 @@
 
 **Schrödinger Equation** applies to **Quantum Systems**. The **Schrödinger Equation** describes the **Wave Function** or **State Function** of a **Quantum Mechanical System**.
 
-**Quantum Systems** are such **sub-atomic** particles which have only one specific **discrete level of energy**. They can only exist at one specific **quantized energy level** and no where else __OR__, these are such systems which exits as a **wave** as long as they do not get measured as the act of __measurement collapses the wave function__.
+**Quantum Systems** are such **sub-atomic** particles which have only one specific **discrete level of energy**. They can only exist at one specific **quantized energy level** and no where else __OR__, these are such systems which exits as a **wave** as long as they do not get measured as the act of __measurement collapses the wave function__(~~act of measurement turns the wave in the ocean into a beach stone~~).
 
 The **Qubit** is the quantum mechanical generalization of a bit used in classical computers. More precisely a **Qubit** is a two dimensional quantum system. As long as you do not measure it, it changes according to **Schrödinger Equation**.
 
