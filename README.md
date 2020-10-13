@@ -28,4 +28,5 @@ where **h** = 6.626176x10^-34 joule-seconds
 <!--
 * [Interference](https://github.com/sohail/quantum-computing/blob/master/interference.md)
 -->
+* [Measurement Postulate](https://github.com/sohail/quantum-computing/blob/master/measurement.md)
 * [Planck's Constant](https://github.com/sohail/quantum-computing/blob/master/plancksconstant.md)  
