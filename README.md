@@ -24,10 +24,8 @@ where **h** = 6.626176x10^-34 joule-seconds
 
       
 * [State of Qubit in Blochsphere](https://github.com/sohail/quantum-computing/blob/master/blochsphere.md)
-* [Tensor Product](https://github.com/sohail/quantum-computing/blob/master/tensorproduct.md)
-<!--
 * [Interference](https://github.com/sohail/quantum-computing/blob/master/interference.md)
--->
+* [Tensor Product](https://github.com/sohail/quantum-computing/blob/master/tensorproduct.md)
 * [Measurement Postulate](https://github.com/sohail/quantum-computing/blob/master/measurementpostulate.md)
 * [Entanglement](https://github.com/sohail/quantum-computing/blob/master/entanglement.md)
 * [Planck's Constant](https://github.com/sohail/quantum-computing/blob/master/plancksconstant.md)  
